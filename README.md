@@ -14,7 +14,7 @@ A website for you to track what you eat, and discover new and exciting cuisine.
 [The Cal-Zone](#)
 
 ## 📸 Screenshots
-<img src='./imgs/dashboard-test-data(iPhone%20XR).png' alt='dashboard mobile view' width='350'>
+<img src='./imgs/Slides.png' alt='screens of the app' width='350'>
 <img src='./imgs/history-test-data(iPhone%20XR).png' alt='dashboard mobile view' width='350'>
 <img src='./imgs/mealAPI-view(iPhone%20XR).png' alt='dashboard mobile view' width='350'>
 
